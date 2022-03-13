@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SAURAV-KUMAR-21MCC2125'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0702616F1BE405BACDD1EFAC9ED0120 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C59B3B23C0444C4AD6C1DB4CAFABE26 }}
           package: .
